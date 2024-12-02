@@ -1,0 +1,17 @@
+
+
+ .icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+  font-size: inherit;
+}
+.bg-logo {
+  background: url('/static/images/log.png');
+  background-size: cover;
+  height: 300px;
+  background-color: cornflowerblue;
+}
+.row {
+  flex: auto;
+}
